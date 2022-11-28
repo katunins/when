@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="475417fe-b276-4fdf-b786-e4cfcfa56d94" name="when" url="http://p574123.ftp.ihc.ru">
+        <fileTransfer rootFolder="/www/when.ikatunin.ru" accessType="FTPS" host="p574123.ftp.ihc.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
